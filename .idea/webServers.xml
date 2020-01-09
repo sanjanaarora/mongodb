@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2ff526de-bc4a-4279-a3ac-bbe269a32617" name="mongodb" url="http://localhost/mongodb_demo">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\mongodb_demo" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
